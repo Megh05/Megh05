@@ -1,7 +1,8 @@
-Hi 👋 My name is Megh Patel 
-===========================  
+# Hi 👋 !
 
-Full Stack Developer 
+## I'm Megh Patel  
+
+#### Full Stack Developer 
 --------------------  
 
 An IT Engineering student with robust problem-solving skills along with broad knowledge in Web Development, App Development, Software Programming, Project Management and various other Programming Languages.  
