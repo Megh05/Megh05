@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=4EE5F7&lines=Hey!+I+am+Megh+Patel;A+Data+Science+Enthusiast;And+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
-<!-- #### Full Stack Developer  -->
 --------------------  
+<!-- #### Full Stack Developer  -->
 
 An IT Engineering student with robust problem-solving skills along with broad knowledge in Web Development, App Development, Software Programming, Project Management and various other Programming Languages.  
 
