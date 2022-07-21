@@ -1,10 +1,8 @@
 # Hi 👋 !
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=4EE5F7&lines=Hey!+I+am+Megh+Patel)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=A1F753&lines=Data+Science+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hey!+I+am+Megh+Patel)](https://git.io/typing-svg)
 --------------------  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=A1F753&lines=Data+Science+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
 <!-- #### Full Stack Developer  -->
 
 An IT Engineering student with robust problem-solving skills along with broad knowledge in Web Development, App Development, Software Programming, Project Management and various other Programming Languages.  
