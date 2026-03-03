@@ -2,70 +2,78 @@
 
 ---
 
-### 📊 About Me
+## 📊 About Me
 
-Detail-oriented **Data Analyst** with experience transforming complex datasets into actionable business insights. I specialize in **SQL, Python, and BI tools** to clean data, build dashboards, analyze trends, and support evidence-based decision-making.
+Detail-oriented **Data Analyst** currently working as a **Data Engineer at Jarvis Consulting**, where I design analytics pipelines, build reporting workflows, and transform raw operational data into meaningful business insights.
 
-Currently working as a **Data Engineer at Jarvis Consulting Group**, where I design data pipelines, develop SQL analytics solutions, and build reproducible data environments for real-world business use cases.
+I specialize in **SQL, Python, and BI tools** to clean data, analyze trends, create dashboards, and support data-driven decision-making for stakeholders.
 
-Previously worked with **Agriculture and Agri-Food Canada** optimizing enterprise data platforms and delivering executive dashboards that improved reporting efficiency and decision-making.
+My work bridges **analytics + engineering**, enabling reliable data foundations while delivering clear, actionable insights to business teams.
 
-My work focuses on:
-
-* Data analysis & reporting
-* KPI dashboards & visualization
-* ETL workflows
-* Business insights & storytelling
-* Cloud-based analytics (Azure)
+Previously contributed to enterprise-scale analytics initiatives with **Agriculture and Agri-Food Canada**, optimizing data platforms and building executive dashboards.
 
 ---
 
-### 🚀 Featured Analytics Projects
+## 🚀 Featured Analytics Projects
 
-#### 📈 Labour Market Trends Analysis
+### 📈 Labour Market Trends Analysis
+Analyzed large Canadian labour market datasets using Python (Pandas, NumPy) to uncover employment patterns, sector growth, and regional workforce insights. Developed visualizations and reports to support policy and planning decisions.
 
-🔗 https://github.com/Megh05/Labour-Market-Trends
-Analyzed Canadian labour market datasets using Python and Pandas to uncover employment trends, sector growth, and regional workforce patterns. Built visualizations and reports to support data-driven insights and policy-level decisions.
+### 🛒 Retail Data Analytics Pipeline
+Built an end-to-end data workflow for cleaning, transforming, and analyzing retail transactions using SQL and Python. Delivered customer segmentation, revenue insights, and performance dashboards.
 
-#### 🛒 Retail Data Analytics Pipeline
+### 📊 Dashboard & KPI Reporting
+Designed interactive dashboards using Power BI to track KPIs, monitor trends, and enable leadership teams to make faster, evidence-based decisions.
 
-Designed an end-to-end workflow for cleaning, transforming, and analyzing retail data using Python and SQL. Generated customer segmentation and revenue insights through notebooks and dashboards.
-
-#### 🖥️ Linux Cluster Resource Monitoring Analytics
-
-Built automated data collection pipelines and SQL queries to analyze system performance and capacity trends for infrastructure optimization.
-
----
-
-### 🧰 Tech Stack
-
-**Analytics & BI**
-
-* Python (Pandas, NumPy, Matplotlib)
-* SQL / PostgreSQL
-* Power BI & Tableau
-* Jupyter Notebooks
-
-**Data Engineering**
-
-* ETL Pipelines
-* Azure Data Services
-* Docker & Linux
-* Git & CI/CD
-
-**Cloud**
-
-* Microsoft Azure
+### 🖥️ Linux Cluster Resource Monitoring Analytics
+Developed automated data collection and SQL-based analysis to monitor infrastructure performance and capacity utilization, improving system reliability and planning.
 
 ---
 
-### 📫 Connect With Me
+## 🧰 Tech Stack
 
-* Portfolio: http://meghpatel.com
-* Email: [meghpatel005@gmail.com](mailto:meghpatel005@gmail.com)
-* GitHub: https://github.com/Megh05
-* LinkedIn: https://www.linkedin.com/in/megh-patel-7bb1321a1/
+### Analytics & BI
+- Python (Pandas, NumPy, Matplotlib)
+- SQL / PostgreSQL
+- Power BI & Tableau
+- Excel & Data Visualization
+- Jupyter Notebooks
+
+### Data & ETL
+- Data Cleaning & Transformation
+- ETL Pipelines
+- Data Modeling
+- Automation Scripts
+
+### Cloud & Tools
+- Microsoft Azure
+- Docker & Linux
+- Git & CI/CD
 
 ---
 
-⭐ Always exploring new datasets and building projects that turn raw data into meaningful insights.
+## 💼 Experience Snapshot
+
+**Data Engineer | Jarvis Consulting**
+- Build and maintain ETL pipelines for structured and unstructured data  
+- Design SQL queries and analytical reports for business stakeholders  
+- Automate workflows to improve reporting efficiency  
+- Enable scalable, reliable analytics solutions in cloud environments  
+
+**Analytics Contributor | Agriculture and Agri-Food Canada**
+- Optimized enterprise data platforms  
+- Delivered executive dashboards and KPI reports  
+- Improved data accessibility and reporting performance  
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: http://meghpatel.com  
+- 📧 Email: meghpatelca@gmail.com
+- 💻 GitHub: https://github.com/Megh05  
+- 🔗 LinkedIn: https://www.linkedin.com/in/megh-patel-7bb1321a1/  
+
+---
+
+⭐ Always exploring new datasets and building solutions that turn raw data into meaningful insights.
