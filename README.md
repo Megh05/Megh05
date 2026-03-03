@@ -1,79 +1,69 @@
 # Hi 👋 I'm Megh Patel
 
+Data Engineer | Data Analyst | Cloud & Analytics Enthusiast
+
 ---
 
 ## 📊 About Me
 
-Detail-oriented **Data Analyst** currently working as a **Data Engineer at Jarvis Consulting**, where I design analytics pipelines, build reporting workflows, and transform raw operational data into meaningful business insights.
+I’m currently working as a **Data Engineer at Jarvis Consulting Group**, building scalable data platforms, ETL pipelines, and analytics solutions that transform raw data into meaningful insights.
 
-I specialize in **SQL, Python, and BI tools** to clean data, analyze trends, create dashboards, and support data-driven decision-making for stakeholders.
+I specialize in:
 
-My work bridges **analytics + engineering**, enabling reliable data foundations while delivering clear, actionable insights to business teams.
+- Python & SQL analytics
+- Data engineering pipelines
+- KPI dashboards & visualization
+- Cloud data platforms (Azure)
+- Business-focused storytelling with data
 
-Previously contributed to enterprise-scale analytics initiatives with **Agriculture and Agri-Food Canada**, optimizing data platforms and building executive dashboards.
+Previously contributed to enterprise analytics initiatives at Agriculture and Agri-Food Canada and began my career in data analytics and machine learning roles.
 
 ---
 
-## 🚀 Featured Analytics Projects
+## 🚀 Featured Projects
 
 ### 📈 Labour Market Trends Analysis
-Analyzed large Canadian labour market datasets using Python (Pandas, NumPy) to uncover employment patterns, sector growth, and regional workforce insights. Developed visualizations and reports to support policy and planning decisions.
+Exploratory analysis on Canadian labour datasets using Python and Pandas to uncover employment trends and workforce insights.  
+👉 https://github.com/Megh05/Labour-Market-Trends
 
-### 🛒 Retail Data Analytics Pipeline
-Built an end-to-end data workflow for cleaning, transforming, and analyzing retail transactions using SQL and Python. Delivered customer segmentation, revenue insights, and performance dashboards.
+### 🛒 AI Shopping Assistant (Agentic RAG Chatbot)
+Built an intelligent recommendation chatbot using RAG, embeddings, and vector search for personalized product discovery.  
+👉 https://github.com/Megh05/Karji-Agentic-RAG
 
-### 📊 Dashboard & KPI Reporting
-Designed interactive dashboards using Power BI to track KPIs, monitor trends, and enable leadership teams to make faster, evidence-based decisions.
+### ❤️ Stethr Health Monitoring System
+Cross-platform wearable/mobile solution that tracks real-time vitals and detects early health risks using ML algorithms.  
+👉 https://github.com/Megh05/Stethr
 
-### 🖥️ Linux Cluster Resource Monitoring Analytics
-Developed automated data collection and SQL-based analysis to monitor infrastructure performance and capacity utilization, improving system reliability and planning.
+---
+
+## 💼 Experience
+
+### Data Engineer — Jarvis Consulting Group (Present)
+Designing data pipelines, Linux monitoring systems, SQL analytics, and Dockerized environments for scalable data engineering projects.
+
+### Data Management Analyst — Agriculture and Agri-Food Canada
+Built enterprise dashboards and optimized ETL pipelines using Microsoft Fabric, Synapse, and Power BI to accelerate decision-making.
+
+### Data Analyst — BIBirbal
+Performed exploratory data analysis and applied supervised learning models to uncover trends and predictive insights. Cleaned and transformed datasets using Python and delivered reports and visualizations to support business strategy.
 
 ---
 
 ## 🧰 Tech Stack
 
-### Analytics & BI
-- Python (Pandas, NumPy, Matplotlib)
-- SQL / PostgreSQL
-- Power BI & Tableau
-- Excel & Data Visualization
-- Jupyter Notebooks
+**Analytics**  
+Python, Pandas, NumPy, SQL, Power BI, Tableau
 
-### Data & ETL
-- Data Cleaning & Transformation
-- ETL Pipelines
-- Data Modeling
-- Automation Scripts
+**Data Engineering**  
+ETL, Azure Data Services, Docker, Linux, CI/CD
 
-### Cloud & Tools
-- Microsoft Azure
-- Docker & Linux
-- Git & CI/CD
-
----
-
-## 💼 Experience Snapshot
-
-**Data Engineer | Jarvis Consulting**
-- Build and maintain ETL pipelines for structured and unstructured data  
-- Design SQL queries and analytical reports for business stakeholders  
-- Automate workflows to improve reporting efficiency  
-- Enable scalable, reliable analytics solutions in cloud environments  
-
-**Analytics Contributor | Agriculture and Agri-Food Canada**
-- Optimized enterprise data platforms  
-- Delivered executive dashboards and KPI reports  
-- Improved data accessibility and reporting performance  
+**Cloud**  
+Microsoft Azure
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: http://meghpatel.com  
-- 📧 Email: meghpatelca@gmail.com
-- 💻 GitHub: https://github.com/Megh05  
-- 🔗 LinkedIn: https://www.linkedin.com/in/megh-patel-7bb1321a1/  
-
----
-
-⭐ Always exploring new datasets and building solutions that turn raw data into meaningful insights.
+- Portfolio: http://meghpatel.com
+- GitHub: https://github.com/Megh05
+- LinkedIn: https://linkedin.com/in/megh-patel
