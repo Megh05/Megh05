@@ -1,35 +1,71 @@
-# Hi 👋 !
+# Hi 👋 I'm Megh Patel
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hey!+I+am+Megh+Patel)](https://git.io/typing-svg)
---------------------  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=A1F753&lines=Data+Science+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
-<!-- #### Full Stack Developer  -->
+---
 
-An IT Engineering student with robust problem-solving skills along with broad knowledge in Web Development, App Development, Software Programming, Project Management and various other Programming Languages.  
+### 📊 About Me
 
-* 🖥️  See my portfolio at [MyPortfolio](http://meghpatel.com) 
-* ✉️  You can contact me at [meghpatel005@gmail.com](mailto:meghpatel005@gmail.com) 
-* 🧠  I'm learning ASP.NET MVC
+Detail-oriented **Data Analyst** with experience transforming complex datasets into actionable business insights. I specialize in **SQL, Python, and BI tools** to clean data, build dashboards, analyze trends, and support evidence-based decision-making.
 
-<a href="https://www.github.com/Megh05" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Megh05?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Skills
+Currently working as a **Data Engineer at Jarvis Consulting Group**, where I design data pipelines, develop SQL analytics solutions, and build reproducible data environments for real-world business use cases.
 
-<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a> <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a> <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a> <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a> </p> 
+Previously worked with **Agriculture and Agri-Food Canada** optimizing enterprise data platforms and delivering executive dashboards that improved reporting efficiency and decision-making.
 
-### Socials  
+My work focuses on:
 
-<p align="left"> <a href="https://www.dev.to/megh05" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/Megh05" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/megh-patel-7bb1321a1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/megh-05" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+* Data analysis & reporting
+* KPI dashboards & visualization
+* ETL workflows
+* Business insights & storytelling
+* Cloud-based analytics (Azure)
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 🚀 Featured Analytics Projects
 
-<a href="http://www.github.com/Megh05"><img src="https://github-readme-stats.vercel.app/api?username=Megh05&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Megh05's GitHub stats" /></a>
-<a href="http://www.github.com/Megh05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Megh05&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<!-- <a href="http://www.github.com/Megh05"><img src="https://activity-graph.herokuapp.com/graph?username=Megh05&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
-<a href="https://github.com/Megh05" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megh05&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+#### 📈 Labour Market Trends Analysis
 
-<b>Top Repositories</b>
+🔗 https://github.com/Megh05/Labour-Market-Trends
+Analyzed Canadian labour market datasets using Python and Pandas to uncover employment trends, sector growth, and regional workforce patterns. Built visualizations and reports to support data-driven insights and policy-level decisions.
 
-<div width="100%" align="center"><a href="https://github.com/Megh05/Abstractive_Text-Summarization_SimpleT5" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Megh05&repo=Abstractive_Text-Summarization_SimpleT5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Megh05/Fit-Flex" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Megh05&repo=Fit-Flex&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+#### 🛒 Retail Data Analytics Pipeline
 
+Designed an end-to-end workflow for cleaning, transforming, and analyzing retail data using Python and SQL. Generated customer segmentation and revenue insights through notebooks and dashboards.
+
+#### 🖥️ Linux Cluster Resource Monitoring Analytics
+
+Built automated data collection pipelines and SQL queries to analyze system performance and capacity trends for infrastructure optimization.
+
+---
+
+### 🧰 Tech Stack
+
+**Analytics & BI**
+
+* Python (Pandas, NumPy, Matplotlib)
+* SQL / PostgreSQL
+* Power BI & Tableau
+* Jupyter Notebooks
+
+**Data Engineering**
+
+* ETL Pipelines
+* Azure Data Services
+* Docker & Linux
+* Git & CI/CD
+
+**Cloud**
+
+* Microsoft Azure
+
+---
+
+### 📫 Connect With Me
+
+* Portfolio: http://meghpatel.com
+* Email: [meghpatel005@gmail.com](mailto:meghpatel005@gmail.com)
+* GitHub: https://github.com/Megh05
+* LinkedIn: https://www.linkedin.com/in/megh-patel-7bb1321a1/
+
+---
+
+⭐ Always exploring new datasets and building projects that turn raw data into meaningful insights.
